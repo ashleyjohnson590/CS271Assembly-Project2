@@ -1,0 +1,61 @@
+Project 2 Rubric
+Criteria	Ratings	Pts
+Lab Report Correctly Submitted
+4 pts
+Full Marks
+0 pts
+No Marks
+4 / 4 pts
+Part 1 Question 1
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Part 1 Question 2
+4 pts
+Full Marks
+0 pts
+No Marks
+4 / 4 pts
+Part 2 Question 1
+3 pts
+Full Marks
+0 pts
+No Marks
+3 / 3 pts
+Part 3 Question 1
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Part 3 Question 2
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Part 3 Question 3
+2 pts
+Full Marks
+0 pts
+No Marks
+Comments
+EIP points to the next instruction to be run, not the the current one.
+0 / 2 pts
+Part 4 Question 1
+4 pts
+Full Marks
+0 pts
+No Marks
+Comments
+Strings are 0 indexed.
+2 / 4 pts
+Part 5 Question 1
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Total Points: 21
